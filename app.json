@@ -1,7 +1,7 @@
 {
-  "name": "BARAKA MD",
-  "description": "Hi there, I am Baraka Bot Whatsapp Chuddy Buddy built in NodeJs to make experience better.\n\t Incase of Any Problem Whatsapp me on: 255762190568,255679513639 +254710772666",
-  "logo": "https://telegra.ph/file/6c303aae067284c32b90d.jpg",
+  "name": "𝑃𝐴𝑁𝑇𝐻𝐸𝑅",
+  "description": "Hi there, I am Panther Bot Whatsapp Chuddy Buddy built in NodeJs to make experience better.\n\t Incase of Any Problem Whatsapp me on: 255762190568,255679513639 +254710772666",
+  "logo": "https://telegra.ph/file/7260c0965d835f26fad48.jpg",
   "keywords": ["whatsappbot", "pantherMd", "Black Md bot", "Panter-Md", "PanterMdWhatsaooBot", "BlackWaBot","BlackpanterMD","Panther Md Whatsapp Bot","multi device"],
   "success_url": "/",
   "app_url": "/qr",
@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Bot Owner Name",    
-      "value": "Mr baraka",
+      "value": "𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔",
       "required" :true
     },   
     
@@ -27,12 +27,12 @@
     "BOT_NAME": {
       "description": " Name Of Bot",
       "required" :true,    
-      "value": "𝘽𝘼𝙍𝘼𝙆𝘼-𝙈𝘿"
+      "value": "𝐏𝐀𝐍𝐓𝐇𝐄𝐑 𝐌𝐃"
     }, 
     "USER_IMAGES": {
       "description": "Image for Bot. You can Place several Sparated by Commas.",
       "required" :true,    
-      "value": "https://telegra.ph/file/c49429f9051bd41ad96dc.jpg"
+      "value": "https://telegra.ph/file/ec8ce4af1d8fa3271e26a.jpg,https://telegra.ph/file/ec059aa5db556bbd951c6.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -107,7 +107,7 @@
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
       "required" :true,
-      "value": "255762190568,255679513639,254710772666,254739937062"
+      "value": "25739937062,254710772666"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -137,7 +137,7 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Mr baraka",
+      "value": "𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔",
       "required": true 
     },
     "PACK_AUTHER": {
